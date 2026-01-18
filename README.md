@@ -52,8 +52,8 @@ The focus of the project is **clean architecture, good UX, and real-world fronte
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd <project-folder>
+git clone https://github.com/raghavk1/emp-bookxpert
+cd emp-Bookxpert
 ```
 
 ### 2️⃣ Install dependencies
